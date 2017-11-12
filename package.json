@@ -2,7 +2,7 @@
   "name": "react-bubble-chart",
   "version": "0.4.0",
   "description": "A React+D3 animated bubble chart",
-  "main": "src/ReactBubbleChart.js",
+  "main": "lib/ReactBubbleChart.js",
   "dependencies": {
     "babel": "^5.8.23",
     "react": "^0.13.3",
